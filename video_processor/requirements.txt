@@ -1,0 +1,6 @@
+libopencv-dev
+libavcodec-dev
+libavformat-dev
+libswscale-dev
+libspdlog-dev
+build-essential
